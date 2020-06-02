@@ -1,0 +1,15 @@
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\bin\Debug\netcoreapp2.1\MobilePaywall.AutoTester.deps.json
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\bin\Debug\netcoreapp2.1\MobilePaywall.AutoTester.runtimeconfig.json
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\bin\Debug\netcoreapp2.1\MobilePaywall.AutoTester.runtimeconfig.dev.json
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\bin\Debug\netcoreapp2.1\MobilePaywall.AutoTester.dll
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\obj\Debug\netcoreapp2.1\MobilePaywall.AutoTester.csprojAssemblyReference.cache
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\obj\Debug\netcoreapp2.1\MobilePaywall.AutoTester.csproj.CoreCompileInputs.cache
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\obj\Debug\netcoreapp2.1\MobilePaywall.AutoTester.RazorAssemblyInfo.cache
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\obj\Debug\netcoreapp2.1\MobilePaywall.AutoTester.RazorAssemblyInfo.cs
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\obj\Debug\netcoreapp2.1\MobilePaywall.AutoTester.AssemblyInfoInputs.cache
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\obj\Debug\netcoreapp2.1\MobilePaywall.AutoTester.AssemblyInfo.cs
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\obj\Debug\netcoreapp2.1\MobilePaywall.AutoTester.RazorTargetAssemblyInfo.cache
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\bin\Debug\netcoreapp2.1\MobilePaywall.AutoTester.pdb
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\obj\Debug\netcoreapp2.1\MobilePaywall.AutoTester.dll
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\obj\Debug\netcoreapp2.1\MobilePaywall.AutoTester.pdb
+D:\Projects\AkoProjects\dot.net\MobilePaywall.AutoTester\MobilePaywall.AutoTester\bin\Debug\netcoreapp2.1\electron.manifest.json

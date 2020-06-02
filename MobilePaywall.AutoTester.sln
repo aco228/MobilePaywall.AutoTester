@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePaywall.AutoTester", "MobilePaywall.AutoTester\MobilePaywall.AutoTester.csproj", "{66CDB5C6-7156-475C-A00B-F8725B0B0CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66CDB5C6-7156-475C-A00B-F8725B0B0CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CDB5C6-7156-475C-A00B-F8725B0B0CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CDB5C6-7156-475C-A00B-F8725B0B0CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CDB5C6-7156-475C-A00B-F8725B0B0CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {935C8102-6C4C-415D-875F-8BC95749AAB3}
+	EndGlobalSection
+EndGlobal
